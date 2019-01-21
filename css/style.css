@@ -1,0 +1,47 @@
+body{
+	text-align: center;
+	font-size: 24px;
+}
+
+
+
+div{
+	margin: 10px auto;
+}
+
+div#main{
+	margin: auto;
+}
+
+div#head{
+	width: 350px;
+	margin: auto;
+}
+
+div#foot{
+	margin: auto;
+}
+
+div#log{
+	text-align: left;
+	font-size: 12px;
+	width: 300px;
+	margin: auto;
+}
+
+span#counter{
+	float: left;
+	margin: auto;
+}
+
+span#timer{
+	float: right;
+}
+
+input#face{
+	width: 6em;
+	height: 2em;
+	font-size: 15px;
+	padding-bottom: 0.2em;
+	font-family: 'ＭＳ Ｐゴシック';
+}
